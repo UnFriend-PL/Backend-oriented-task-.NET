@@ -13,7 +13,7 @@ The application offers the following functions:
 ## Installation and startup
 
 1. make sure you have [.NET SDK] installed.
-2. clone the repository: `git clone https://github.com/yourusername/BackendNbpApi.git`.
+2. clone the repository: `git clone https://github.com/UnFriend-PL/Backend-oriented-task-.NET`.
 3. navigate to the project directory: `cd BackendNbpApi`.
 4. build the project: `dotnet build`.
 5. run the application: `dotnet run`.
